@@ -2,6 +2,7 @@
 The TOS that you agree to when you use Elixir Studios' TotallyMath
 
 TotallyMath uses Google Tags and Google Analytics to track where users go on the site, how long they stay on the specific page, and when a user clicks off the page they were on, and where they go to after exiting the page, whether that be to another TotallyMath page, or off of TotallyMath. Data we collect includes:
+
 User retention and engagement
 
 Page title visited
