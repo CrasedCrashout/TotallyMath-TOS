@@ -7,10 +7,12 @@ Page title visited
 Page screen name visited
 The total users general location
 Device used (e.g. Laptop, Desktop, Mobile)
+When AtlasAI is opened by a user and when a chat is started
 
 Data we do not collect:
 Personal info (IP Address, Name, email, etc)
 Precise location
 Exact device (e.g. MacBook Air, Chromebook, iPhone 15, etc.)
+Chats sent by the user or by AtlasAI
 
 We (TotallyMath and Elixir Studios team) will NOT sell any data we collect to advertisers, but will use collected data to help improve TotallyMath. 
